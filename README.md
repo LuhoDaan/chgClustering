@@ -49,3 +49,5 @@ Make sure to update the INPUT_EXTRACTION variable in the script to point to the 
 ### Configuration
 - **INPUT_EXTRACTION**: Path to the Excel file containing CHG emergencies data.
 - **similarity_treshold**: Threshold for considering sentences as similar (default is 0.7).
+
+## Made with ❤️ by Luca lo stagista della PA
